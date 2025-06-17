@@ -55,10 +55,4 @@ We may update this Privacy Policy from time to time in order to reflect, for exa
 
 ### Contact Us
 
-If you have questions or comments about this Privacy Policy, please contact us at:
-
-- Company: light game of zl
-- Address: xin lian lu
-- City, State, ZIP Code: Huizhou/Guangdong/China, 516000
-- Email Address: zl845@outlook.com
-- Phone Number: +86 19258515305
+If you have questions or comments about this Privacy Policy, please contact us at: zl845@outlook.com
